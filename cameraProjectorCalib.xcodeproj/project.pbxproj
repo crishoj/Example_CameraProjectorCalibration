@@ -894,7 +894,7 @@
 					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_52)",
 					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
 				);
-				LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(DEVELOPER_DIR)-(null)/of_preRelease_v007_osx/addons/ofxOpenCv/libs/opencv/lib/osx\"";
+				LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"../../../addons/ofxOpenCv/libs/opencv/lib/osx\"";
 				PRODUCT_NAME = cameraProjectorCalibDebug;
 				WRAPPER_EXTENSION = app;
 			};
@@ -980,7 +980,7 @@
 					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_51)",
 					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
 				);
-				LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(DEVELOPER_DIR)-(null)/of_preRelease_v007_osx/addons/ofxOpenCv/libs/opencv/lib/osx\"";
+				LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"../../../addons/ofxOpenCv/libs/opencv/lib/osx\"";
 				PRODUCT_NAME = cameraProjectorCalib;
 				WRAPPER_EXTENSION = app;
 			};
